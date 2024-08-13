@@ -3,6 +3,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-gaur-6978521b2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakashgaur0304) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=portfolio&logoColor=white)](https://aakash-gaur-portfolio.netlify.app/)
 
+Contact Me : aakashgaur0304@gmail.com
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AakashGaur03&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AakashGaur03&theme=apprentice&hide_border=false)<br/>
