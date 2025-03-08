@@ -25,3 +25,7 @@ Contact Me : aakashgaur0304@gmail.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 📈 GitHub Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AakashGaur03&color=blue)
+
+
