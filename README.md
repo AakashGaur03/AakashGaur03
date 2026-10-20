@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-gaur-6978521b2)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakashgaur0304)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=portfolio&logoColor=white)](https://aakashgaur03.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=portfolio&logoColor=white)](https://aakashgaur.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Gaur_Aakash/)
 
 Contact Me : aakashgaur0304@gmail.com
